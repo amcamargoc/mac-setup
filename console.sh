@@ -1,4 +1,7 @@
-# ---- Iterm 2 --- 
+# Homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# ---- Iterm 2 ---
 echo "Installing a more configurable terminal\n"
 brew install iterm2
 echo "Iterm2 installed \n"
